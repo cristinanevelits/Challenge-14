@@ -1,0 +1,13 @@
+{{!< main}}
+
+<h1>Dashboard</h1>
+
+<h2>Your Blog Posts</h2>
+
+{{#each posts}}
+  <div class="post">
+    <h2>{{posts.title}}</h2>
+    <p>{{posts.content}}</p>
+    <p>Date: {{createdAt}}</p>
+  </div>
+{{/each}}

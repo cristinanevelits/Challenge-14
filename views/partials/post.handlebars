@@ -1,0 +1,18 @@
+{{!< main}}
+
+<div class="post">
+  <h1>{{post.title}}</h1>
+  <p>{{post.content}}</p>
+  <p>Posted by: {{post.User.username}}</p>
+  <p>Date: {{post.createdAt}}</p>
+  
+  {{#if user}}
+    <form action="/api/comments/{{post.id}}" method="POST">
+      <div>
+        <label for="comment">Add a Comment:</label>
+        <input type="text" id="comment" name="text" required>
+      </div>
+      <button type="submit">Submit Comment</button>
+    </form>
+  {{/if}}
+</div>

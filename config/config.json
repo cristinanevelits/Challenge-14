@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "blog_user",
+      "password": "user_password",
+      "database": "tech_blog",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "port": 3306
+    },
+    "test": {
+      "username": "your_mysql_username",
+      "password": "your_mysql_password",
+      "database": "your_test_database_name",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "port": 3306
+    },
+    "production": {
+      "use_env_variable": "JAWSDB_URL",
+      "dialect": "mysql"
+    }
+  }
+  
