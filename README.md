@@ -19,15 +19,14 @@
 
 ##Screenshots:
 
-![Screenshot#1]()
-![Screenshot#2]()
-![Screenshot#3]()
-![Screenshot#4]()
+![Screenshot#1](https://github.com/cristinanevelits/Challenge-14/blob/main/public/css/2345ead8-2861-4f53-bcca-350a1b7ad171.JPG)
+![Screenshot#2](https://github.com/cristinanevelits/Challenge-14/blob/main/public/css/6e22cd97-176a-4f4d-96c1-82d2e18c6a8a.JPG)
+![Screenshot#3](https://github.com/cristinanevelits/Challenge-14/blob/main/public/css/14c5d989-7045-4eb6-b3a8-3146ef7704d7.JPG)
 
 
 ## GitHub Repo link: https://github.com/cristinanevelits/Challenge-14
 
-## Heroku Deployed App Link: 
+## Heroku Deployed App Link: https://the-tech-blog-6243321f91cd.herokuapp.com/
 
 ## Credits
 
